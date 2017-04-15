@@ -13,6 +13,6 @@ namespace Meet.Extensions.Logging.Log2Mongo
 
         public string Collection { get; set; }
 
-        public LogLevel Loglevel { get; set; }
+        public LogLevel LogLevel { get; set; }
     }
 }
